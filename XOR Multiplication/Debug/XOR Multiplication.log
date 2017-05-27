@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\bryce\documents\visual studio 2017\projects\xor multiplication\xor multiplication\main.cpp(87): warning C4018: '<': signed/unsigned mismatch
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  XOR Multiplication.vcxproj -> c:\users\bryce\documents\visual studio 2017\Projects\XOR Multiplication\Debug\XOR Multiplication.exe
+  XOR Multiplication.vcxproj -> c:\users\bryce\documents\visual studio 2017\Projects\XOR Multiplication\Debug\XOR Multiplication.pdb (Partial PDB)
